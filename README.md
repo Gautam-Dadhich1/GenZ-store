@@ -1,1 +1,1 @@
-# StoreifyMe
+# GenZ-store
